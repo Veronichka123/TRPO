@@ -2,7 +2,7 @@
 name: User Story
 about: my user storyyy
 title: ''
-labels: ТРПО
+labels: ''
 assignees: Veronichka123
 
 ---
