@@ -2,7 +2,7 @@
 name: User Story
 about: my user storyyy
 title: ''
-labels: ''
+labels: User Story
 assignees: Veronichka123
 
 ---
